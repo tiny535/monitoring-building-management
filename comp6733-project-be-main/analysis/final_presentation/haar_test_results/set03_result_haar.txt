@@ -1,0 +1,10 @@
+CALLED!
+Creating remote clients for Pi sniffing!
+Running tcpdump on Pi for 3 minutes!
+SFTP-ing .pcap files for Triangulation!
+Total number of devices captured in tcpdump across 3 Pi's: 8
+Creating remote clients for Pi face counting!
+Running face counting on Pi!
+This is the number of devices counted post-triangulation: 5
+This is the number of faces counted: 5
+This is the reconciled output: 5

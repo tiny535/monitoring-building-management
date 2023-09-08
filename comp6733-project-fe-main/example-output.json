@@ -1,0 +1,7 @@
+{
+    "building-name": "string",
+    "building-code": "string",
+    "room-name": "string",
+    "capacity": "number",
+    "current-occupancy": "number"
+}
